@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kanishka-banga/textutils.git/static/css/main.3084184e.css",
+    "main.js": "/kanishka-banga/textutils.git/static/js/main.b0430763.js",
+    "static/js/453.02b6ed6f.chunk.js": "/kanishka-banga/textutils.git/static/js/453.02b6ed6f.chunk.js",
+    "index.html": "/kanishka-banga/textutils.git/index.html",
+    "main.3084184e.css.map": "/kanishka-banga/textutils.git/static/css/main.3084184e.css.map",
+    "main.b0430763.js.map": "/kanishka-banga/textutils.git/static/js/main.b0430763.js.map",
+    "453.02b6ed6f.chunk.js.map": "/kanishka-banga/textutils.git/static/js/453.02b6ed6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3084184e.css",
+    "static/js/main.b0430763.js"
+  ]
+}
